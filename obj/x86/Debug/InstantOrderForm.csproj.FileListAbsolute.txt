@@ -1,0 +1,10 @@
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\bin\Debug\InstantOrderForm.exe
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\bin\Debug\InstantOrderForm.pdb
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.Form1.resources
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.Properties.Resources.resources
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.csproj.GenerateResource.Cache
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.exe
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.pdb
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.Form2.resources
+c:\users\reaper\documents\visual studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.Form3.resources
+C:\Users\ReapeR\Documents\Visual Studio 2010\Projects\InstantOrderForm\InstantOrderForm\obj\x86\Debug\InstantOrderForm.csprojResolveAssemblyReference.cache
